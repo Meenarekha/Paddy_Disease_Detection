@@ -63,13 +63,6 @@ This AI system brings real-world value to agriculture by:
 - Architecture optimized for real-world image recognition
 - Accepts leaf images as input for prediction
 
-## Team Members
-
-- Ajay S (2023510302)
-- Amritha L (2023510051)
-- Meena E (2023510036)
-- Dhivyashree R (2023510002)
-
 ## Conclusion
 
 CNN-based models offer a scalable, accurate, and automated solution to paddy disease classification. This project contributes to the intersection of AI and sustainable agriculture, 
@@ -77,5 +70,4 @@ offering long-term benefits to rural farming communities.
 
 Ideal for integration with mobile apps for real-time crop health monitoring.
 
-## Contact 
-Email: meenarekhadvelmrm@gmail.com  
+
